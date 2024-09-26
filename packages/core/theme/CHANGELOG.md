@@ -1,5 +1,11 @@
 # @nextui-org/theme
 
+## 2.2.12
+
+### Patch Changes
+
+- [#3764](https://github.com/nextui-org/nextui/pull/3764) [`559436d46`](https://github.com/nextui-org/nextui/commit/559436d462bdb8739d8c817d1aa98607969d8a07) Thanks [@wingkwong](https://github.com/wingkwong)! - add missing `data-[hover=true]:` for ghost button with danger color
+
 ## 2.2.11
 
 ### Patch Changes
